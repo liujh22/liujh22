@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujh22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liujh22)
 ![trophy](https://github-profile-trophy.vercel.app/?username=liujh22)
-![visitors](https://visitor-badge.glitch.me/badge?liujh22=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?liujh22=liujh22&left_color=green&right_color=red)
 
 
 <!--
