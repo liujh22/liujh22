@@ -2,7 +2,7 @@
 <tr><td>
 <p>&emsp;&emsp;I'm Big Salty Fish</p>
 <p>&emsp;&emsp;Dream is to become a salty fish 🧂🐠</p>
-<p>&emsp;&emsp;Hobby is sleep, sleep and sleep 💤💤💤</p>
+<p>&emsp;&emsp;Hobby is sleep, sleep and sleep  💤💤💤</p>
 </td></tr>
 
 <!-- GitHub 数据统计 -->
