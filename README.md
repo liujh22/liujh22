@@ -1,6 +1,4 @@
 ## Hi there 👋 
-<table>
-  
 <tr><td>
 <p>&emsp;&emsp;I'm Big Salty Fish</p>
 <p>&emsp;&emsp;Dream is to become a salty fish 🧂🐠</p>
