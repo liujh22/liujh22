@@ -3,12 +3,10 @@
   
 <tr><td>
 <p>&emsp;&emsp;I'm Big Salty Fish</p>
-<p>&emsp;&emsp;Like sleep, sleep and sleep</p>
-<p>&emsp;&emsp;Dream is to become a salty fish</p>
+<p>&emsp;&emsp;Dream is to become a salty fish 🧂🐠</p>
+<p>&emsp;&emsp;Hobby is sleep, sleep and sleep 💤💤💤</p>
+</td></tr>
 
-
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
 <!-- GitHub 数据统计 -->
 
 <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liujh22&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
