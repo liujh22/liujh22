@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujh22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liujh22)
 ![trophy](https://github-profile-trophy.vercel.app/?username=liujh22)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=liujh22&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liujh22)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=liujh22)
 
 
 <!--
