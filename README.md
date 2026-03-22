@@ -14,22 +14,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=liujh22&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=liujh22&theme=dark&hide_border=true" />
 </picture> -->
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=liujh22&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=liujh22&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=liujh22&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
-<!-- Contribution Snake 小格子贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liujh22/liujh22/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liujh22/liujh22/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liujh22/liujh22/output/github-contribution-grid-snake.svg" />
-</picture>
